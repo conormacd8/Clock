@@ -1,0 +1,14 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: black;
+  color: RGB(29, 211, 253);
+  font-family: monospace;
+  font-size: 8rem;
+  display: grid;
+  place-content: center;
+  height: 100vh;
+}
